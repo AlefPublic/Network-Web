@@ -1,6 +1,6 @@
 # Network-Web
 # Release Notes - N W Beta
-
+267034ae-aa43-485d-81a5-90c59af48d45.png
 ## 🚀 What's New
 
 We're proud to announce the official release of **N W (Network & Web Analyzer) v2.0.0** - a complete rewrite with professional features and cyber aesthetics.
